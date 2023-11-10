@@ -3,7 +3,7 @@ This Python project is a simple text-based slot machine game that allows users t
 
 # Features
 Deposit System: Players can deposit an initial amount to start playing.<br>
-Line and Bet Selection: Users can choose the number of lines to bet on and the bet amount per line within specified limits.
-Random Spin: The slot machine generates random spins with symbols based on predefined symbol counts.
-Winning Check: The game checks for winning combinations on the chosen lines and calculates winnings based on symbol values and bet amounts.
+Line and Bet Selection: Users can choose the number of lines to bet on and the bet amount per line within specified limits.<br>
+Random Spin: The slot machine generates random spins with symbols based on predefined symbol counts.<br>
+Winning Check: The game checks for winning combinations on the chosen lines and calculates winnings based on symbol values and bet amounts.<br>
 Balance Management: The player's balance is updated based on winnings and losses.
